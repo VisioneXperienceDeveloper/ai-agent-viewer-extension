@@ -1,2 +1,11 @@
+.vscode/**
+.vscode-test/**
 .env
-.vscode
+.gitignore
+.vscodeignore
+src/**
+tsconfig.json
+**/*.map
+package-lock.json
+extension_guide.md
+node_modules/**

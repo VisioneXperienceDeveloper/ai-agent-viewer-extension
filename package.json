@@ -2,7 +2,7 @@
   "name": "ai-agent-visualizer",
   "displayName": "AI Agent Visualizer",
   "description": "Visualize your AI agents as cute dot-characters in real-time.",
-  "publisher": "YourPublisherName",
+  "publisher": "vision-experience-developer",
   "icon": "media/icon.png",
   "repository": {
     "type": "git",

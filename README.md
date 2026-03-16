@@ -27,4 +27,4 @@ The corresponding character will immediately show a speech bubble and start work
 - VS Code 1.75.0 or higher.
 
 ## 📄 License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

@@ -4,6 +4,10 @@
   "description": "Visualize your AI agents as cute dot-characters in real-time.",
   "publisher": "YourPublisherName",
   "icon": "media/icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VisioneXperienceDeveloper/ai-agent-viewer-extension.git"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.75.0"
